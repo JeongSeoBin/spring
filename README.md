@@ -5,7 +5,7 @@
 - src/main/java/com.spring.basic.ex02: property와 constructor-arg를 이용한 값 주입에 대하여
 - src/main/java/com.spring.basic.ex03: scope="prototype"에 대하여
 - src/main/java/com.spring.basic.ex04: 자동주입 어노테이션 @Autowired @Quailifier @Resource에 대하여
-#SpringWebBasic
+# SpringWebBasic
 - 스프링 MVC흐름(dispatcherServlet handlerMapping handlerAdapter viewResolver)
 - 요청받기(@RequestMapping @GetMapping @PostMapping)
 - 요청 파라미터 받기(HttpServletRequest, @RequestParam, vo객체)

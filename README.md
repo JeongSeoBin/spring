@@ -13,3 +13,7 @@
 - 응답 페이지에 데이터 전달(Model객체, @ModelAttribute, ModelAndView객체)
 - redirect시 데이터 전달(RedirectAttributes)
 - service와 DAO객체의 구현
+# SpringDBAccess
+- root-context.xml 설정
+- JdbcTemplate을 이용한 spring jdbc
+- mybatis

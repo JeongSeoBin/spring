@@ -17,3 +17,11 @@
 - root-context.xml 설정
 - JdbcTemplate을 이용한 spring jdbc
 - mybatis
+# SpringWebMvcProject(회원가입/로그인 게시판 구현)
+- 회원가입
+  아이디 중복체크((@RestController, @RequstBody)
+  비동기 통신으로 회원가입(@RestController, @RequstBody)
+- 로그인
+  비동기 통신으로 로그인
+  세션(HttpServletRequest.getSession(), HttpSession)
+- 로그아웃

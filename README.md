@@ -27,6 +27,8 @@
 - <로그아웃>
 - session만료(session.invalidate())
 - <게시판>
+- 게시글 등록
+- 글 상세/수정/삭제(@PathVariable)
 - 페이징
 - 검색(동적sql)
 - 표시할 게시물의 개수 선택

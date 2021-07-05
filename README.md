@@ -25,6 +25,7 @@
 - 비동기 통신으로 로그인
 - 세션(HttpServletRequest.getSession(), HttpSession)
 - <로그아웃>
+- session만료(session.invalidate())
 - <게시판>
 - 페이징
 - 검색(동적sql)
